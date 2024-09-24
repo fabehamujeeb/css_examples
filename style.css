@@ -1,0 +1,7 @@
+/* this is how comments are written */
+.pd { font-family: arial; } 
+* { font-variant: small-caps }
+.pd, h1 {font-family: arial ;}
+.pd, h1 {font-style: italic;}
+#para {color: green}
+h1 {color: grey}
